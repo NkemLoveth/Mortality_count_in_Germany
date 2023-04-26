@@ -1,7 +1,7 @@
 # Mortality count in Germany from March 2016 to July 2022
 
-The aim of this project is to analyze the Crude Death Count, average daily death count, and total death count across different age demography in Germany from 2016 to 2022. 
-Moreso, to understudy the significant rise  (if any) in death count during the COVID-19 pandemic era.
+The aim of this project is to analyze the Crude Death Count, average daily death count, and total death count across different age demography in Germany from 2016 to 2022. Moreso, to understudy the significant rise  (if any) in death count during the COVID-19 pandemic era.
+
 For the analysis of mortality by age and states in Germany, the data is sourced from the Statistisches Bundesamt (Federal Statistical Office) [SB21]
 The data include the number of deaths by age group and state on a daily, weekly and monthly basis.
 The data reveals as analysis drawn, that the death count over the 7 year period is on a continuous increase across all age groups and genders with the most significant
